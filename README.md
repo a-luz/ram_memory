@@ -3,6 +3,7 @@
   In this project, I've created an inferred block RAM example for the basys 3 board.
   This RAM memory has a "read-first" synchronization.
   
+  UNIVERSITY PROJECT
 ## Author
 
 Arthur Luz
